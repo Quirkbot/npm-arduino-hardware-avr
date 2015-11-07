@@ -1,0 +1,11 @@
+{
+  "name": "npm-arduino-hardware-avr",
+  "version": "1.6.9",
+  "description": "Installs Arduino's avr boards via npm.",
+  "main": "./index.js",
+  "author": "Paulo Barcelos",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Quirkbot/npm-arduino-hardware-avr.git"
+  }
+}
